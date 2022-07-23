@@ -1,0 +1,2 @@
+当在训练脚本命令中加入--add_vgg_loss时会使用到vgg19网络在ImageNet数据集上训练好的预训练模型，
+模型地址为jittor官方指定的Vgg19预训练模型地址，即在加载vgg19时指定其pretrained=True
